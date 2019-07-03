@@ -1,0 +1,43 @@
+#article-list {
+    color: black; 
+    font-family:'MedievalSharp';
+}
+
+#main-title {
+    color: gold; 
+    font-family:'MedievalSharp'; 
+    text-align: center;
+    font-size: 60px;
+}
+
+body {
+    background-color: whitesmoke
+}
+
+#navigation-bar {
+    font-family:'MedievalSharp'; 
+    background-color: sandybrown;
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#horizontal-nav {
+    display:inline-block; 
+    padding:20px; 
+    color:saddlebrown;
+    text-align: center;
+    text-decoration: none;
+}
+
+#horizontal-nav:hover {
+    background-color: gold;
+}
+
+#horizontal-nav:active {
+    background-color: gold;
+}
